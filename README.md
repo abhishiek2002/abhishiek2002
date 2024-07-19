@@ -1,4 +1,9 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 
+# Hi , I'm Abhishek Kuntal
+
+# Welcome to My GitHub Profile! 👋
+
+![Waving Hand](https://em-content.zobj.net/thumbs/240/apple/325/waving-hand_1f44b.png)
 
 ![Header Image](your-header-image-url)
 
@@ -7,7 +12,6 @@
 - 🌱 I’m currently learning data science in machine learning
 - 👯 I’m looking to collaborate on python developing
 - 💬 Ask me about 
-- 📫 How to reach me: [Email](kuntalabishek2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-kuntal/)
 
 ## Skills
 - Programming Languages:
@@ -28,6 +32,8 @@
 
 
 
+  # 📫 CONNECT WITH ME:
+-  [Email](kuntalabishek2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-kuntal/)
 
 
 
