@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 
 ## Hi , I'm Abhishek Kuntal 
 
-https://img.shields.io/badge/dynamic/json
 
 ![Header Image](your-header-image-url)
 
@@ -34,7 +33,7 @@ https://img.shields.io/badge/dynamic/json
 
 
 ## 📫 CONNECT WITH ME
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kuntal/) [![Email](https://img.shields.io/badge/email-kuntalabishek2002@gmail.com%40example.com-blue?style=flat-square)](kuntalabishek2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kuntal/) 
 
 
 
@@ -42,7 +41,10 @@ https://img.shields.io/badge/dynamic/json
 ### Project Name
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishiek2002&repo=Python-basic)](https://github.com/abhishiek2002/numpy)
 
-## GitHub Stats
+### Contribution Graph
+![Your Name's Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=abhishiek2002)
+
+### GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishiek2002&show_icons=true)
 
 ## Top Languages
