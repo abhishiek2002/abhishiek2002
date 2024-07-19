@@ -1,10 +1,6 @@
 # Welcome to My GitHub Profile! 
 # Hi , I'm Abhishek Kuntal
 
-# Welcome to My GitHub Profile! 👋
-
-![Waving Hand](https://em-content.zobj.net/thumbs/240/apple/325/waving-hand_1f44b.png)
-
 ![Header Image](your-header-image-url)
 
 ## About Me
