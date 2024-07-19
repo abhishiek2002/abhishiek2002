@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on python developing
 
 
-- #  Programming Languages:
+#  Programming Languages:
   ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -19,7 +19,7 @@
   ![Database](https://img.shields.io/badge/Database-003545?style=for-the-badge&logo=database&logoColor=white) 
   ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-00A98F?style=for-the-badge&logo=internet&logoColor=white)
   
-- # Libraries and Frameworks: 
+# Libraries and Frameworks: 
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
   ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) 
