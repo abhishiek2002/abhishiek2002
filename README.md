@@ -1,7 +1,13 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <h1 align="center">Hi👋, I'm Abhishek Kuntal</h1>
  
+🚩 A Data Scientist From India. 🚩
+git gitlab JAVA python  google cloud Linux docker pytorch TensorFlow cplusplus css3
 
+aws azure c cplusplus git java linux mongodb mysql nodejs oracle pandas python scikit_learn seaborn tensorflow  
+
+💕---> DATA LOVER <---💕
+❣
 
 ## About Me
 - 🔭 I’m currently working on some projects that are public in my other repositories
