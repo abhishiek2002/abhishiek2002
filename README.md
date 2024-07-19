@@ -41,7 +41,7 @@
 
 ## Projects
 ### Project Name
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishiek2002&repo=Python-basic)](https://github.com/abhishiek2002/numpy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishiek2002&repo=Python-basic)](https://github.com/abhishiek2002/Python-basic)
 
 ### Contribution Graph
 ![Your Name's Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=abhishiek2002)
