@@ -43,13 +43,6 @@
 ### Project Name
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishiek2002&repo=Python-basic)](https://github.com/abhishiek2002/Python-basic)
 
-/*
- This is a multi-line comment
-![Your Name's Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=abhishiek2002)
-*/
-
-### Contribution Graph
-
 ### GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishiek2002&show_icons=true)
 
