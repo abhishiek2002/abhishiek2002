@@ -1,11 +1,12 @@
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 # Welcome to My GitHub Profile! 
-## Hi , I'm Abhishek Kuntal 
+## Hi , I'm Abhishek Kuntal
 
 
 ## About Me
 - 🔭 I’m currently working on some projects that are public in my other repositories
 - ⚡ My learning in  **Python , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling ** is in progress.
--  Check my projects and other repositories [here](https://github.com/abhishiek2002?tab=repositories).
+- 💻 Check my projects and other repositories [here](https://github.com/abhishiek2002?tab=repositories).
 - 🌱 I’m currently learning data science with machine learning
 - 👯 I’m looking to collaborate on python developing
 
