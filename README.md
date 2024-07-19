@@ -30,8 +30,8 @@
 
 
 
-  # 📫 CONNECT WITH ME:
--  [Email](kuntalabishek2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-kuntal/)
+## 📫 CONNECT WITH ME
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kuntal/) [![Email](https://img.shields.io/badge/email-yourusername%40example.com-blue?style=flat-square)](kuntalabishek2002@gmail.com)
 
 
 
