@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
-# Welcome to My GitHub Profile! 
-## Hi , I'm Abhishek Kuntal
+<h1 align="center">Hi👋, I'm Abhishek Kuntal</h1>
+ 
 
 
 ## About Me
