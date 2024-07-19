@@ -33,12 +33,12 @@
 
 ## Projects
 ### Project Name
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-name)](https://github.com/your-username/project-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishiek2002&repo=project-name)](https://github.com/your-username/project-name)
 
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?abhishiek2002&show_icons=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishiek2002&show_icons=true)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?abhishiek2002&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishiek2002&layout=compact)
 ## Hi there 👋
 
