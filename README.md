@@ -2,8 +2,6 @@
 ## Hi , I'm Abhishek Kuntal 
 
 
-![Header Image](your-header-image-url)
-
 ## About Me
 - 🔭 I’m currently working on some projects that are public in my other repositories
 - ⚡ My learning in  **Python , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling ** is in progress.
