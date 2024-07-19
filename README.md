@@ -3,13 +3,8 @@
 
 <h3 align="center">
 🚩 A Data Scientist From India. 🚩</h3>
-
-git gitlab JAVA python  google cloud Linux docker pytorch TensorFlow cplusplus css3
-
-aws azure c cplusplus git java linux mongodb mysql nodejs oracle pandas python scikit_learn seaborn tensorflow  
-
-💕---> DATA LOVER <---💕
-❣
+<h3 align = "center">💕---> DATA LOVER <---💕<h3>
+  <h3 align ="center">❣</h3>
 
 ## About Me
 - 🔭 I’m currently working on some projects that are public in my other repositories
