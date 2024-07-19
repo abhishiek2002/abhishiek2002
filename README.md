@@ -33,7 +33,7 @@
 
 ## Projects
 ### Project Name
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishiek2002&repo=project-name)](https://github.com/your-username/project-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishiek2002&repo=Python-basic)](https://github.com/abhishiek2002/numpy)
 
 ## GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishiek2002&show_icons=true)
