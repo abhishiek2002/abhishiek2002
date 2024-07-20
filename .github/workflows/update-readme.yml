@@ -1,0 +1,37 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Fetch dynamic content
+        run: |
+          # Add your script here to fetch data
+          # Example: Fetch latest blog posts
+          curl -s https://api.example.com/posts > latest-posts.json
+
+      - name: Update README
+        run: |
+          # Update your README.md with fetched data
+          python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update README with latest data'
+          git push
+
+      - name: Create a Personal Access Token
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
