@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <h1 align="center">Hi <img src="waving_hand.gif" width = "45">, I'm Abhishek Kuntal</h1>
-
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
+</div>
 <h3 align="center">
 🚩 A Data Scientist From India. 🚩</h3>
 <h3 align = "center">💕---> DATA LOVER <---💕<h3>
