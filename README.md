@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
-<h1 align="center">Hi👋, I'm Abhishek Kuntal</h1>
+<h1 align="center">Hi <img src="waving_hand.gif" width = "45"> I'm Abhishek Kuntal</h1>
 
 <h3 align="center">
 🚩 A Data Scientist From India. 🚩</h3>
